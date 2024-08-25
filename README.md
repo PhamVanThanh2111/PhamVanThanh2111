@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center">Hi 👋, I'm Phạm Văn Thành</h1>
-<h3 align="center">I am a final-year student at the Industrial University of Ho Chi Minh City, majoring in Software Engineering. Aspiring to become a proficient full-stack developer.</h3>
+<h3 align="center">I am currently working as a Java Developer, intending to develop my skills to become a proficient full-stack developer. With a strong foundation in Software Engineering and a passion for coding, I am committed to writing high-quality code and contributing effectively in the workplace.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamvanthanh2111&label=Profile%20views&color=0e75b6&style=flat" alt="phamvanthanh2111" /> </p>
 
