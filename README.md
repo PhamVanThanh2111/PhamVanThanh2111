@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phamvanthanh2111" alt="phamvanthanh2111" /></a> </p>
 
-- 🌱 I’m currently learning **WWW Programming by Java, Android Programming**
+- 🌱 I’m currently learning **WWW Programming by Java, Android Programming, Quality assurance, and software testing using C# language.**
 
 - 💬 Ask me about **Java**
 
