@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamvanthanh2111&theme=dracula&show_icons=true&locale=en&layout=compact" alt="phamvanthanh2111" /></p>
 
-<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamVanThanh2111&theme=dracula" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamvanthanh2111&amp;theme=dracula" style="max-width: 100%;"></p>
+<p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhamVanThanh2111&theme=dracula" data-canonical-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phamvanthanh2111&amp;theme=dracula" style="max-width: 100%;" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamvanthanh2111&theme=dracula&show_icons=true&locale=en" alt="phamvanthanh2111" /></p>
 
