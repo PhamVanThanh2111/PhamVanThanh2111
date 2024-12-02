@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=phamvanthanh2111&theme=dracula&show_icons=true&locale=en" alt="phamvanthanh2111" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamvanthanh2111&" alt="phamvanthanh2111" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=phamvanthanh2111&theme=dracula" alt="phamvanthanh2111" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
