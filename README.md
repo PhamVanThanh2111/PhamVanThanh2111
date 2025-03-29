@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software Architecture ([Java](https://dev.java/learn/getting-started/), [Spring Framework](https://spring.io/projects/spring-framework) ([Cloud Gateway](https://spring.io/projects/spring-cloud-gateway), [Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/reference/html/), [JPA](https://spring.io/projects/spring-data-jpa), [Security](https://spring.io/projects/spring-security)), [Redis](https://redis.io/docs/latest/operate/rc/rc-quickstart/), [Resilience4j](https://resilience4j.readme.io/docs/getting-started)), New technology in application development ([NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), [SocketIO](https://socket.io/docs/v4/), [MongoDB](https://www.mongodb.com/))**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java, Spring Framework, NodeJS, ReactJS, ReactNative**
 
 - 📫 How to reach me **phamtrung21112003@gmail.com**
 
