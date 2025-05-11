@@ -1,12 +1,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">Hi 👋, I'm Phạm Văn Thành</h1>
+<h1 align="center">Hi 👋 I'm Phạm Văn Thành</h1>
 <h3 align="center"><i>I am currently working as a Java Developer, intending to develop my skills to become a proficient full-stack developer. With a strong foundation in Software Engineering and a passion for coding, I am committed to writing high-quality code and contributing effectively in the workplace.<i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phamvanthanh2111&label=Profile%20views&color=0e75b6&style=flat" alt="phamvanthanh2111" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phamvanthanh2111" alt="phamvanthanh2111" /></a> </p>
 
-- 🌱 I’m currently learning **Software Architecture ([Java](https://dev.java/learn/getting-started/), [Spring Framework](https://spring.io/projects/spring-framework) ([Cloud Gateway](https://spring.io/projects/spring-cloud-gateway), [Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/reference/html/), [JPA](https://spring.io/projects/spring-data-jpa), [Security](https://spring.io/projects/spring-security)), [Redis](https://redis.io/docs/latest/operate/rc/rc-quickstart/), [Resilience4j](https://resilience4j.readme.io/docs/getting-started)), New technology in application development ([NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), [SocketIO](https://socket.io/docs/v4/), [MongoDB](https://www.mongodb.com/))**
+- 🌱 I’m currently learning **Software Architecture: TechGalaxy ([Java](https://dev.java/learn/getting-started/), [Spring Framework](https://spring.io/projects/spring-framework) ([Cloud Gateway](https://spring.io/projects/spring-cloud-gateway), [Cloud Netflix](https://cloud.spring.io/spring-cloud-netflix/reference/html/), [JPA](https://spring.io/projects/spring-data-jpa), [Security](https://spring.io/projects/spring-security)), [Redis](https://redis.io/docs/latest/operate/rc/rc-quickstart/), [Resilience4j](https://resilience4j.readme.io/docs/getting-started)), New technology in application development: DoraChat ([NodeJS](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs), [SocketIO](https://socket.io/docs/v4/), [MongoDB](https://www.mongodb.com/))**
 
 - 💬 Ask me about **Java, Spring Framework, NodeJS, ReactJS, ReactNative**
 
